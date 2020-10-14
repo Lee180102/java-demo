@@ -38,4 +38,4 @@ mybatis-plus:
   ?
 logging:
   level:
-    com.jt.mapper: debug
+    com.example.javademo: INFO
